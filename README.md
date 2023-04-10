@@ -9,7 +9,7 @@ It was a fun game to play through at the end and felt satisfying to build
 
 What did you struggle with in this project?
 
-Could not get console.log before 'continue' to stay on line 113
+Could not get console.log before 'continue' to stay on line 113 - in retrospect it should have been a 'prompt' 
 
 
 What would make your experience with this assessment better?
