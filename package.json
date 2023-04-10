@@ -1,0 +1,15 @@
+{
+  "name": "find-my-hat",
+  "version": "1.0.0",
+  "description": "This is the javascript assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Brar",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
