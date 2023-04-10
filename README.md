@@ -2,6 +2,7 @@
 Javascript assessment
 
 Reflect on the following questions
+
 What did you like about this project?
 
 It was a fun game to play through at the end and felt satisfying to build
